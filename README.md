@@ -1,2 +1,2 @@
-# c-prog
-Repository for my C programming projects
+# ATM
+Repository for an ATM Machine built with C
